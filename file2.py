@@ -1,2 +1,2 @@
 print(9)
-yy
+print("hello")
